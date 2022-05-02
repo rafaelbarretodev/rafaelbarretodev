@@ -5,7 +5,6 @@ I'm Rafael Barreto
   
 </h2>
 
-📫 How to reach me: rafael-barreto@outlook.com<br>
 🌱 I’m currently learning
 
 <div style="display: inline_block">
