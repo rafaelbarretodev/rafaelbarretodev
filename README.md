@@ -1,3 +1,6 @@
+
+          
+
 <h2 align=left>
 
 Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
@@ -11,19 +14,20 @@ I'm Rafael Barreto
   <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
 </div><br>
 
 🌱 I’m currently learning
 
 <div style="display: inline_block">
-  <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">     
+  <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">   
 </div><br>
 
 💬 Next 
 
 <div style="display: inline_block">
-  <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+
   <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
