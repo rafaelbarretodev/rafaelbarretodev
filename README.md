@@ -10,12 +10,12 @@ I'm Rafael Barreto
 
 <img height="425em" src="https://i.imgur.com/ZkT5sJk.gif"/>
 
-<div>
+<div align="center">
   <a href="https://github.com/rafaelbarretodev">
-          
-          <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarretodev&layout=compact&langs_count=7&theme=tokyonight"/>
-    </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelbarretodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarreto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 
 👨🏾‍💻 I’m learning
     
