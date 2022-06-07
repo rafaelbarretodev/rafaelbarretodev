@@ -8,31 +8,28 @@ I'm Rafael Barreto
   
 </h2>
 
-👨🏾‍💻 I learned about
+<img height="425em" src="https://i.imgur.com/ZkT5sJk.gif"/>
 
-<div style="display: inline_block">
-  <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
-</div><br>
+<div>
+  <a href="https://github.com/rafaelbarretodev">
+          <img height="160em" src="https://github-readme-stats.vercel.app/api?          username=rafaelbarretodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+          <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruRaptor&layout=compact&langs_count=7&theme=tokyonight"/>
+    </a>
+</div>
 
-🌱 I’m currently learning
+👨🏾‍💻 I’m learning
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafael-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafael-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafael-JavaScript" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
+  <img align="center" alt="Rafael-MySQL" height="50" width="60" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
+  <img align="center" alt="Rafael-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Rafael-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img align="center" alt="Rafael-Github" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
+</div>
 
-<div style="display: inline_block">
-  <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">   
-</div><br>
-
-💬 Next 
-
-<div style="display: inline_block">
-  <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-</div><br>
-
-<h2 align="left">:heart: Let's get connected:</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-rafaelbarretodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelbarretodev/)](https://www.linkedin.com/in/rafaelbarretodev) 
-[![Instagram Badge](https://img.shields.io/badge/-@rafxbarreto-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/rafxbarreto/)
+<div> <br>
+ 
+  <a href="https://www.linkedin.com/in/rafaelbarretodev/" target="_blank"><img align="center" alt="Rafael-Github" height="100" width="200" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" target="_blank"></a>
+  <a href = "rafaelbarreto1989@outlook.com"><img align="center" alt="Rafael-Github" height="100" width="200" src="https://www.logo.wine/a/logo/Google/Google-Logo.wine.svg" target="_blank"></a>
