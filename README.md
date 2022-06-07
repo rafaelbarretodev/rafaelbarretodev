@@ -2,22 +2,21 @@
           
 
 <h2 align=left>
-
 Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-I'm Rafael Barreto 
-  
+I'm Rafael Barreto  
 </h2>
 
-<img height="425em" src="https://i.imgur.com/ZkT5sJk.gif"/>
+<img align=center height="425em" src="https://i.imgur.com/ZkT5sJk.gif"/>
 
-<div align="center">
+<div>
   <a href="https://github.com/rafaelbarretodev">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaelbarretodev&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarretodev&layout=compact&langs_count=7&theme=rose_pine"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelbarretodev&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarretodev&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
 
-
+<h3 align=left>
 👨🏾‍💻 I’m learning
+</h3>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
