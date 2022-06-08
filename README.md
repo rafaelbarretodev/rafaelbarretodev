@@ -31,4 +31,4 @@ I'm Rafael Barreto
 <div> <br>
  
   <a href="https://www.linkedin.com/in/rafaelbarretodev/" target="_blank"><img align="center" alt="Rafael-Github" height="100" width="200" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" target="_blank"></a>
-  <a href = "rafaelbarreto1989@outlook.com"><img align="center" alt="Rafael-Github" height="100" width="200" src="https://www.logo.wine/a/logo/Google/Google-Logo.wine.svg" target="_blank"></a>
+  <a href = "mailto:rafaelbarreto1989@outlook.com"><img align="center" alt="Rafael-Github" height="100" width="200" src="https://www.logo.wine/a/logo/Google/Google-Logo.wine.svg" target="_blank"></a>
