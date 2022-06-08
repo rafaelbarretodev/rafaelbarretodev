@@ -36,3 +36,4 @@ I'm Rafael Barreto
           <h3 align="left">:heart: Let's get connected:</h3>
 
 [![Instagram Badge](https://img.shields.io/badge/-@rafxbarreto-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/rafxbarreto
+)
