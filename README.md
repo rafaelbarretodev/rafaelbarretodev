@@ -8,15 +8,16 @@ I'm Rafael Barreto
 
 <img align=center height="425em" src="https://i.imgur.com/ZkT5sJk.gif"/>
 
+
 <div>
   <a href="https://github.com/rafaelbarretodev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelbarretodev&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarretodev&layout=compact&langs_count=7&theme=rose_pine"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelbarretodev&show_icons=true&theme=rose_pine"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarretodev&layout=compact&theme=rose_pine&https://github.com/rafaelbarretodev/github-readme-stats"/>
 </div>
 
-<h3 align=left>
-👨🏾‍💻 I’m learning
-</h3>
+
+## I’m learning:
+
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -28,7 +29,7 @@ I'm Rafael Barreto
   <img align="center" alt="Rafael-Github" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
 </div>
 
-<div> <br>
+## Let's get connected:
  
   <a href="https://www.linkedin.com/in/rafaelbarretodev/" target="_blank"><img align="center" alt="Rafael-Github" height="100" width="200" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" target="_blank"></a>
   <a href = "mailto:rafaelbarreto1989@outlook.com"><img align="center" alt="Rafael-Github" height="100" width="200" src="https://www.logo.wine/a/logo/Google/Google-Logo.wine.svg" target="_blank"></a>
