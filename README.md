@@ -6,7 +6,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147
 I'm Rafael Barreto  
 </h2>
 
-<img align=center height="425em" src="https://i.imgur.com/ZkT5sJk.gif"/>
+<img align=center height="425rem" src="https://i.imgur.com/ZkT5sJk.gif"/>
 
 
 <div>
