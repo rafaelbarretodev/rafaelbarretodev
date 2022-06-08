@@ -32,8 +32,3 @@ I'm Rafael Barreto
  
   <a href="https://www.linkedin.com/in/rafaelbarretodev/" target="_blank"><img align="center" alt="Rafael-Github" height="100" width="200" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" target="_blank"></a>
   <a href = "rafaelbarreto1989@outlook.com"><img align="center" alt="Rafael-Github" height="100" width="200" src="https://www.logo.wine/a/logo/Google/Google-Logo.wine.svg" target="_blank"></a>
-          
-          <h3 align="left">:heart: Let's get connected:</h3>
-
-[![Instagram Badge](https://img.shields.io/badge/-@rafxbarreto-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/rafxbarreto
-)
